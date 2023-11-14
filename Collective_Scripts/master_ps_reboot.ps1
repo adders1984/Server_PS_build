@@ -1,4 +1,4 @@
-﻿$stateFilePath = "C:\Users\Administrator\Documents\statefile.json"
+$stateFilePath = "C:\Users\Administrator\Documents\statefile.json"
 
 
 # Import Server Manager Module

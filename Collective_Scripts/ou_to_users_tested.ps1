@@ -1,4 +1,4 @@
-﻿# Import organizational unit data from a CSV file
+# Import organizational unit data from a CSV file
 $import_ou = Import-Csv -Path "C:\Users\Administrator\Documents\ou.csv"
 
 # Iterate through each row of the CSV
