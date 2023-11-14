@@ -1,7 +1,0 @@
-FirstName,Surname,Logon,Org_Unit,Group,Password,Title,Office,Department,Description,BunkLocation
-Steven,Graham,NODA-HQ-JFOIC,"OU=JF COMMAND,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",GG_RELIEF_CMD,P@ssw0rd,Lt Cdr,Bridge 01,EXECUTIVE,Commanding Officer of HMS Turing,COs Cabin 2C
-Jonathan,Rampling,NODA-HQ-JFS1,"OU=JF STAFF,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",GG_RELIEF_STAFF,P@ssw0rd,WO,Roaming,WEAPON ENGINEERING,"Executive Officer, HMS TURING",XOs Cabin 2C
-Jasmine,Newman,NODA-HQ-JFS2,"OU=JF STAFF,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",GG_RELIEF_STAFF,P@ssw0rd,CPO,3H Combined Tech Office,WEAPON ENGINEERING,"WE CPO, HMS TURING",NotDefined
-Rebecca,Welch,NODA-HQ-JF2IC,"OU=JF COMMAND,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",GG_RELIEF_CMD,P@ssw0rd,Lt,Ships Operations Room,WARFARE,"Navigation Officer, HMS TURING",NotDefined
-Louis,Phelippeaux,NODA-HQ-OF3-OCLF,"OU=JF COMMAND,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk","GG_RELIEF_CMD, GG_RELIEF_NATO",P@ssw0rd,Maj,NotDefined,NotDefined,"OIC, Local Forces",NotDefined
-Matthieu,Verkerk,NODA-HQ-OR9-JFS3,"OU=JF STAFF,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk","GG_RELIEF_STAFF, GG_RELIEF_NATO",P@ssw0rd,WO,NotDefined,NotDefined,"HeDMS Esbern Snare, Royal Netherlands Navy",NotDefined

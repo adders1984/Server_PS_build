@@ -1,4 +1,0 @@
-OU,Path,Protected,State
-JF COMMAND,"DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",TRUE,present
-JF STAFF,"DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",TRUE,present
-RESOURCES,"DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",TRUE,present
