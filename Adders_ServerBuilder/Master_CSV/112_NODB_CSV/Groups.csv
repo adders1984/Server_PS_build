@@ -1,0 +1,12 @@
+Group,Scope,Category,Org_Unit,Protect,Members
+GG_STORES_MGMT,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,
+GG_STORES_ASST,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,
+GG_STORES_OFFICERS,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,
+LG_RELIEFB_ALL_VIEW,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,"GG_STORES_MGMT,GG_STORES_ASST,GG_STORES_OFFICERS"
+LG_RELIEFB_MGMT_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,GG_STORES_MGMT
+LG_RELIEFB_STORES_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,"GG_STORES_MGMT,GG_STORES_ASST"
+LG_RELIEFB_SUPPLY_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,GG_STORES_MGMT
+LG_RELIEFB_SUPPLY_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,"GG_STORES_ASST,GG_STORES_OFFICERS"
+LG_RELIEFB_MGMT_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,GG_STORES_OFFICERS
+LG_RELIEFB_STORES_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",no,GG_STORES_OFFICERS
+

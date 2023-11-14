@@ -1,0 +1,4 @@
+OU,Path,Protected,State
+ROYAL NAVY,"DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",TRUE,present
+NATO,"DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",TRUE,present
+RESOURCES,"DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",TRUE,present

@@ -1,0 +1,12 @@
+Group,Scope,Category,Org_Unit,Protect,Members
+GG_RELIEF_CMD,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,
+GG_RELIEF_STAFF,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,
+GG_RELIEF_NATO,global,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,
+LG_RELIEFA_POLICY_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_CMD
+LG_RELIEFA_INTERNATIONAL_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_CMD
+LG_RELIEFA_LAW_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_CMD
+LG_RELIEFA_POLICY_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,"GG_RELIEF_CMD,GG_RELIEF_STAFF"
+LG_RELIEFA_INTERNATIONAL_MOD,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_NATO
+LG_RELIEFA_POLICY_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_NATO
+LG_RELIEFA_LAW_READ,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,GG_RELIEF_NATO
+LG_RELIEFA_ALL_VIEW,domainlocal,security,"OU=RESOURCES,DC=JOKSS,DC=reliefA,DC=navy,DC=mil,DC=uk",no,"GG_RELIEF_CMD,GG_RELIEF_STAFF,GG_RELIEF_NATO"

@@ -1,0 +1,10 @@
+Path,Group,Rights
+K:\J4 - Logistics,LG_RELIEFB_ALL_VIEW,ReadAndExecute
+K:\J4 - Logistics\Mgmt,LG_RELIEFB_MGMT_MOD,Modify
+K:\J4 - Logistics\Mgmt,LG_RELIEFB_MGMT_READ,ReadAndExecute
+K:\J4 - Logistics\Stores,LG_RELIEFB_STORES_MOD,Modify
+K:\J4 - Logistics\Stores,LG_RELIEFB_STORES_READ,ReadAndExecute
+K:\J4 - Logistics\Supply,LG_RELIEFB_SUPPLY_MOD,Modify
+K:\J4 - Logistics\Supply,LG_RELIEFB_SUPPLY_READ,ReadAndExecute
+P:\Home,Users,FullControl
+P:\Profile,Users,FullControl

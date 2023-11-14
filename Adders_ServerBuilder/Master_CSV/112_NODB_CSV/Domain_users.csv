@@ -1,0 +1,7 @@
+FirstName,Surname,Logon,Org_Unit,Group,Password,Title,Office,Department,Description,BunkLocation
+Sean,Underwood,NODB-STOR-OIC,"OU=Royal Navy,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk","GG_STORES_MGMT, GG_STORES_OFFICERS",P@ssw0rd,Lt,NotDefined,LOGS,"Logistics Officer, HMS TURING",NotDefined
+Edward,McDonald,NODB-STOR-STMA1,"OU=Royal Navy,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",GG_STORES_MGMT,P@ssw0rd,PO,NotDefined,LOGS,"Stores Accountant, HMS TURING",NotDefined
+James,Springer,NODB-STOR-STAS1,"OU=Royal Navy,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",GG_STORES_ASST,P@ssw0rd,AB,NotDefined,LOGS,"Stores Assistant, HMS TURING",NotDefined
+Saoirse,Quinn,NODB-STOR-STAS3,"OU=Royal Navy,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",GG_STORES_ASST,P@ssw0rd,AB,NotDefined,LOGS,"SEAAB1, HMS BOOLE",NotDefined
+Marcel,Bousson,NODB-STOR-STAS2,"OU=Nato,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",GG_STORES_ASST,P@ssw0rd,LCpl,NotDefined,LOGS,Local Forces,NotDefined
+Marius,Borda,NODB-STOR-STMA2,"OU=Nato,DC=JOKSS,DC=reliefB,DC=navy,DC=mil,DC=uk",GG_STORES_MGMT,P@ssw0rd,Sgt,NotDefined,LOGS,Local Forces,NotDefined
